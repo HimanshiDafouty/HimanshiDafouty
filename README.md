@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front-end web developer doing everything creative to make the web more unique and awesome.<br>I enjoy learning new technologies.<br>Skilled in HTML, CSS and currently learning JS.
+I am a front-end web developer doing everything creative to make the web more unique and awesome.<br>Skilled in HTML, CSS and currently learning JS.<br>I enjoy learning new technologies.
 
 
 ## 🌐 Socials:
