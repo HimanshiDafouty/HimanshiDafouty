@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front-end web developer doing everything creative to make the web more unique and awesome.<br>Skilled in HTML, CSS and currently learning JS.<br>I enjoy learning new technologies.<br>You can Contact me at:riyadafouty755201@gmail.com 
+I am a front-end web developer doing everything creative to make the web more unique and awesome.<br>Skilled in HTML, CSS and currently learning JS.<br>I enjoy learning new technologies.<br>You can reach me at: riyadafouty755201@gmail.com 
 
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@ I am a front-end web developer doing everything creative to make the web more un
 ---
 [![](https://visitcount.itsvg.in/api?id=HimanshiDafouty&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
