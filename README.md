@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm a front-end web developer, crafting uniquely awesome online experiences..<br>💻Skilled in HTML, CSS and currently learning JS.<br>🌱I enjoy learning new technologies.<br>📫You can reach me at: riyadafouty755201@gmail.com 
+🔭 I'm a front-end web developer, crafting uniquely awesome online experiences..<br>💻 Skilled in HTML, CSS and currently learning JS.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: riyadafouty755201@gmail.com 
 
 
 ## 🌐 Socials:
