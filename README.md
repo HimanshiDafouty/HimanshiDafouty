@@ -6,7 +6,7 @@
 <h5 align="center">
 
 ###  💫 About Me:
-🔭 I'm a front-end web developer, crafting uniquely awesome online experiences..<br>💻 Skilled in HTML, CSS, and JS and currently learning React.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: riyadafouty755201@gmail.com 
+🔭 I'm a front-end web developer, crafting uniquely awesome online experiences..<br>💻 Skilled in HTML, CSS, and JS and currently learning React.<br>🌱 I enjoy learning new technologies.<br>📫 You can reach me at: himanshidafouty777@gmail.com 
 
 
 ## 🌐 Socials:
